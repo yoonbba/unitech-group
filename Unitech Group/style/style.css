@@ -1,0 +1,23 @@
+.abc a{
+    display:grid;
+    border: 5px solid pink;
+    color: black;
+    text-decoration: none;
+    margin: 0px;
+    padding-left:0px;
+    padding-right:0px;
+}
+.abc{
+  display:grid;
+  border: 5px solid black;
+}
+.abb{
+  display: grid;
+  grid-template-columns: 120px 1fr;
+}
+#body-picture{
+  display:grid;
+  border: 5px solid blue;
+  padding-left: 30px;
+  margin-left: 30px;
+}
