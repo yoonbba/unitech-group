@@ -1,0 +1,42 @@
+#main-header{
+  text-align: center;
+  background-color: #282829;
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+}
+
+body{
+  background-color: #B8B8BD;
+  color: #555555;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:12px;
+  font-weight: normal;
+  /* Same as above*/
+  font: noraml Georgia, Helvetica, sans-serif;
+
+  line-height: 2em;
+  margin:0;
+}
+
+
+.container{
+  width:100%;
+  margin: auto;
+
+}
+
+.box-1{
+  background-color: ##282829 ;
+  color: #fff;
+}
+
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-right: auto;
+  padding-left: auto;
+}
